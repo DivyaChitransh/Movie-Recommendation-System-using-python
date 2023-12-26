@@ -25,7 +25,7 @@ cast--actors and actresses in that movie	<br>
 crew--members that were involved in making of that movie(like director, makeup team, stuntman and so on)<br>	
 director--person that directed that whole movie<br>
 <br>
-ML Operations:-<br>
+<b><b>ML Operations:-</b></b><br>
 1.imported basic python libraries and modules like numpy and pandas along with Tfidfvectorizor to convert textual data to numerical vector <br>
 2.basic exploratory data analysis<br>
 3.random feature selection(chose feature that i felt important can also use operations like featurewiz,boruta, sequentialfeatureselector,etc.. to select ideal features)<br>
