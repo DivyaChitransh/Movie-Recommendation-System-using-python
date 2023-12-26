@@ -1,5 +1,5 @@
 # Movie-Recommendation-System-using-python
-<b><b><u>The followings are dataset explaination:-</u></b></b>
+<b><b>The followings are dataset explaination:-</b></b><br>
 index--index of tghe movie(S.No.)<br>
 budget--amount of money spent on making this movie<br>	
 genres--the genre of the given movie<br>
