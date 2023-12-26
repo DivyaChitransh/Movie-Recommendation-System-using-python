@@ -1,10 +1,10 @@
 # Movie-Recommendation-System-using-python
-The followings are dataset explaination:-
-index--index of tghe movie(S.No.)
-budget--amount of money spent on making this movie	
-genres--the genre of the given movie
-homepage--homepage site of that movie	
-id	
+The followings are dataset explaination:-<br>
+index--index of tghe movie(S.No.)<br>
+budget--amount of money spent on making this movie<br>	
+genres--the genre of the given movie<br>
+homepage--homepage site of that movie	<br>
+id	<br>
 keywords--keyword that can be used to search that movie on OTT platform. The given movie is basded on these keywords	
 original_language--the language the movie was made
 original_title--original name of the movie	
